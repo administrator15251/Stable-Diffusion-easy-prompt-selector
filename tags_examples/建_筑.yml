@@ -1,0 +1,805 @@
+室内设计:
+  餐厅: Living Room
+  储藏室: Pantry
+  主卧室: Master Bedroom
+  客房: Guest Room
+  婴儿房: Nursery
+  洗衣房: Laundry Room
+  地下室: Basement
+  阁楼: Attic
+  车库: Garage
+  壁橱: Closet
+  走廊: Hallway
+  楼梯: Staircase
+  门厅: Foyer
+  书房: Study Room
+  图书馆: Library
+  阳光房: Sunroom
+  泥房: Mudroom
+  游戏室: Game Room
+  影音室: Theater Room
+  露台: Patio
+  阳台: Terrace
+  门廊: Porch
+  甲板: Deck
+  车棚: Carport
+  温室: Conservatory
+  休息室: Lounge
+  客厅: Drawing Room
+  化妆室: Powder Room
+  酒窖: Wine Cellar
+
+住宅小区常用单词:
+  湖畔豪华公寓酒店:  Lakeside Luxury Furnished Apartment Complexs
+  奎尔山谷温布置公寓酒店:  Quail Hollow One Furnished Apartment Complexs
+  公寓大楼（美）:  apartment building
+  隔成公寓的建筑物（美）:  apartment house
+  公寓大楼1:  apartment complex
+  公寓大楼2:  apartment block
+  有家具的公寓:  furnished apartment
+  公寓式饭店；公寓式旅馆:  apartment hotel
+  房屋出租；公寓招租；吉屋出租:  apartment for rent
+  一个房间的小公寓住宅:  studio apartment
+  复式公寓:  duplex apartment
+  住宅小区:  Residential area/Residential community
+  公寓:  Apartment/Flat
+  别墅:  Villa
+  房地产:  Housing estate
+  物业管理:  Property management
+  保安人员:  Security guard
+  出入口控制:  Access control
+  监控摄像头:  Surveillance camera
+  停车场:  Parking lot
+  游乐场:  Playground
+  绿地:  Green space
+  社区中心:  Community center
+  设施:  Facilities
+  维修:  Maintenance
+  翻新:  Renovation
+  噪音控制:  Noise control
+  垃圾处理:  Waste disposal
+  消防安全:  Fire safety
+  公共区域:  Common area
+  居委会:  Neighborhood committee
+  业主委员会:  Resident association
+  访客登记:  Visitor registration
+  公告栏:  Notice board
+  投诉程序:  Complaints procedure
+  紧急疏散:  Emergency evacuation
+
+建筑的类型: 
+  办公楼: Office building
+  高层建筑: Highrise building
+  商业大楼: Commercial building
+  公司总部: Corporate headquarters
+  商务中心: Business center
+  摩天大楼: Skyscraper
+  办公综合体: Office complex
+
+其他建筑类型: 
+  机场: Airport
+  圆形剧场: Amphitheater
+  公寓1: Apartment
+  公寓2: Condominium
+  水族馆: Aquarium
+  商业街: Arcade
+  竞技场: Arena
+  礼堂: Auditorium
+  银行: Bank
+  兵营: Barracks
+  酿酒厂: Brewery
+  桥: Bridge
+  城堡: Castle
+  大教堂: Cathedral
+  电影院: Cinema
+  诊所: Clinic
+  俱乐部: Clubhouse
+  学院: College
+  法院: Courthouse
+  工厂: Factory
+  农舍: Farmhouse
+  消防站: Firehouse
+  车库: Garage
+  温室: Greenhouse
+  医院: Hospital
+  酒店: Hotel
+  图书馆: Library
+  灯塔: Lighthouse
+  豪宅: Mansion
+  博物馆: Museum
+  天文台: Observatory
+  办公室: Office
+  宫殿: Palace
+  监狱: Prison
+  餐馆: Restaurant
+  学校: School
+  购物中心: Shopping Mall
+  体育场: Stadium
+  站: Station
+  庙宇: Temple
+  剧院: Theater
+  塔: Tower
+  隧道: Tunnel
+  大学: University
+  仓库: Warehouse
+  工坊: Workshop
+  动物园: Zoo
+  体育馆: Gymnasium
+
+建筑的细节结构:
+  通道: Aisle
+  拱门: Arch
+  阁楼: Attic
+  阳台: Balcony
+  地下室: Basement
+  梁: Beam
+  卧室: Bedroom
+  天花板: Ceiling
+  地窖: Cellar
+  烟囱: Chimney
+  列: Column
+  走廊: Corridor
+  庭院: Courtyard
+  甲板: Deck
+  门: Door
+  天窗: Dormer
+  电梯: Elevator
+  立面: Facade
+  壁炉: Fireplace
+  地板: Floor
+  基础: Foundation
+  花园: Garden
+  亭子: Gazebo
+  厨房: Kitchen
+  楼梯平台: Landing
+  柱子: Pillar
+  门廊: Porch
+  屋顶: Roof
+  房间: Room
+  楼梯: Staircase
+  露台: Terrace
+  塔: Tower
+  墙: Wall
+  栏杆: Balustrade
+  檐口: Cornice
+  排水沟: Gutter
+  绝缘: Insulation
+  横梁: Joist
+  饰条: Moulding
+  栏杆墙: Parapet
+  藤架: Pergola
+  柱廊: Portico
+  拱顶: Vault
+  桁架: Truss
+  柱头: Capital
+  裙墙: Spandrel
+  面板: Fascia
+  窗台: Sill
+  门窗侧柱: Jamb
+  窗棱: Mullion
+  横梁窗: Transom
+  包层: Cladding
+  遮篷: Canopy
+  屋檐: Eaves
+  檐板: Soffit
+  顶饰: Finial
+  搁石: Corbel
+  滴水兽: Gargoyle
+  拱顶石: Keystones
+  花饰: Rosette
+  齿状饰带: Dentil
+  方柱: Pilaster
+  尖顶: Spire
+  穹顶: Dome
+  小圆屋顶: Cupola
+  凸窗: Oriel
+  曼萨尔德顶: Mansard Roof
+  上下推拉窗: Sash Window
+  百叶窗: Louver
+  圆形窗: Bullseye Window
+  橱柜: Cupboard
+  镶板: Wainscot
+  套线: Casing
+  地脚线: Baseboard
+  饰板: Trim
+  扶手: Handrail
+
+
+建筑的屋顶造型:
+  人字顶: Gable Roof
+  斜脊顶: Hip Roof
+  平顶: Flat Roof
+  坡顶: Shed Roof
+  曼萨尔德顶: Mansard Roof
+  马背顶: Gambrel Roof
+  盐盒顶: Saltbox Roof
+  蝴蝶顶: Butterfly Roof
+  锯齿顶: Sawtooth Roof
+  穹顶: Dome
+  圆锥顶: Cone
+  金字塔顶: Pyramid Roof
+  法式斜脊顶: Bonnet Roof
+  曲线顶: Curved Roof
+  桶形顶: Barrel Roof
+  栏杆顶: Parapet Roof
+  交叉人字顶: Cross Gabled Roof
+  交叉斜脊顶: Cross Hipped Roof
+  开放式人字顶: Open Gable Roof
+  箱型人字顶: Box Gable Roof
+  A型顶: AFrame Roof
+  单斜面顶: Skillion Roof
+  依靠顶: Leanto Roof
+  半垄顶: Jerkinhead Roof
+  M型顶: MShaped Roof
+  藤架顶: Pergola Roof
+  荷兰式人字顶: Dutch Gable Roof
+  台阶式人字顶: CrowStepped Gable
+  帐篷顶: Tent Roof
+  塔顶: Turret Roof
+  钟型顶: Bell Roof
+  双曲线顶: Ogee Roof
+  彩虹顶: Rainbow Roof
+  亭子顶: Pavilion Roof
+  灯笼顶: Lantern Roof
+  鞍顶: Saddle Roof
+  洋葱头顶: Onion Dome
+  猫滑顶: Cat Slide Roof
+  茅草顶: Thatch Roof
+  桁架顶: Purlin Roof
+  桁架椽顶: Trussed Rafter Roof
+  单斜顶: Leanto Roof
+  绿色屋顶: Green Roof
+  太阳能屋顶: Solar Roof
+  瓦楞顶: Corrugated Roof
+  阶梯顶: Terraced Roof
+  聚碳酸酯顶: Polycarbonate Roof
+  抛物面顶: Pitched Roof
+  曼塞尔顶: Mansard Roof
+  海鸥翼顶: Gull Wing Roof
+
+建筑的外立面造型: 
+  中庭: Atrium
+  阳台: Balcony
+  凸窗: Bay Window
+  扶壁: Buttress
+  遮篷: Canopy
+  柱: Column
+  檐口: Cornice
+  幕墙: Curtain Wall
+  天窗: Dormer
+  立面: Facade
+  人字墙: Gable
+  绿色墙: Green Wall
+  廊柱: Loggia
+  窗棱: Mullion
+  栏杆墙: Parapet
+  山形墙: Pediment
+  藤架: Pergola
+  方柱: Pilaster
+  柱廊: Portico
+  角石: Quoin
+  雨篷: Rainscreen
+  护墙: Revetment
+  毛石工: Rustication
+  檐板: Soffit
+  细部装饰: Tracery
+  小塔: Turret
+  拱顶: Vault
+  拱廊: Arcade
+  柱顶横梁: Architrave
+  栏杆: Balustrade
+  巴洛克: Baroque
+  平房: Bungalow
+  包层: Cladding
+  柱帽: Entablature
+  饰带: Frieze
+  哥特式: Gothic
+  门窗侧柱: Jamb
+  横梁: Lintel
+  曼萨尔德式: Mansard
+  新古典主义: Neoclassical
+  帕拉第奥式: Palladian
+  文艺复兴式: Renaissance
+  洛可可式: Rococo
+  木瓦: Shingle
+  石膏: Stucco
+  红土陶瓷: Terracotta
+  维多利亚式: Victorian
+
+建筑的形状材料: 
+  六角形屋顶: Hexagonal roof
+  矩形窗户: Rectangular windows
+  半球形穹顶: Domed dome
+  三角形结构: Triangular structure
+  圆柱形柱子: Cylindrical columns
+  圆锥形塔楼: Conical tower
+  华丽装饰: Ornate decoration
+  卵形天花板: Oval ceiling
+  木制楼梯: Wooden staircase
+  有拱形门廊: Arched porch
+  圆形露台: Circular terrace
+  带花纹的地板: Patterned flooring
+  圆形窗户: Circular windows
+  镂空立面: Perforated facade
+  拱形走廊: Arched corridor
+  圆顶穹顶: Dome-shaped dome
+  半圆形拱门: Semicircular arch
+  金属栏杆: Metal railing
+  钢结构框架: Steel frame structure
+  玻璃幕墙: Glass curtain wall
+  方形平台: Square platform
+  梯形楼梯: Trapezoidal staircase
+  圆形喷泉: Circular fountain
+  方形窗户: Square windows
+  椭圆形天窗: Elliptical skylight
+  雕花木门: Carved wooden door
+  高拱顶: High vaulted ceiling
+  方形柱子: Square columns
+  弧形屋顶: Curved roof
+  六角形砖墙: Hexagonal brick wall
+  椭圆形平台: Oval platform
+  四边形天窗: Quadrilateral skylight
+  木质横梁: Wooden beam
+  拱形窗户: Arched windows
+  圆形石柱: Circular stone column
+  锥形顶部: Conical top
+  方形屋顶: Square roof
+  矩形立面: Rectangular facade
+  圆形门廊: Circular porch
+  玻璃栏杆: Glass railing
+  圆顶拱廊: Dome-shaped archway
+  半圆形窗户: Semicircular windows
+  圆形楼梯: Circular staircase
+  长方形平台: Rectangular platform
+  椭圆形门廊: Elliptical porch
+  具有曲线形状的地板: Curved-shaped flooring
+  方形走廊: Square corridor
+  圆形挑檐: Circular eaves
+  木质拱门: Wooden arch
+  矩形天窗: Rectangular skylight
+
+
+幕墙:
+  玻璃外墙: Glass facade
+  玻璃幕墙: Glass curtain wall
+  金属幕墙: Metal curtain wall
+  玻璃装饰: Glazing
+  玻璃覆层: Glass cladding
+  
+  结构玻璃: Structural glazing
+  双层幕墙: Doubleskin facade
+  透明外包层: Transparent envelope
+  玻璃面板: Glass panels
+  防太阳辐射玻璃: Solar control glass
+  反射玻璃: Reflective glass
+  低辐射玻璃: Lowemissivity glass
+  绝缘玻璃: Insulated glazing
+  点式固定玻璃系统: Pointfixed glass system
+  幕墙填充板: Spandrel panels
+  结构硅胶密封幕墙: Structural silicone glazing
+  玻璃梁: Glass fins
+  玻璃天篷: Glass canopy
+  玻璃栏杆: Glass balustrade
+  玻璃屋顶: Glass roof
+  薄板玻璃: Float glass
+  钢化玻璃: Tempered glass
+  夹层玻璃: Laminated glass
+  中空玻璃: Insulated glass
+  石材: Stone
+  天然石材: Natural stone
+  人造石材: Artificial stone
+  石质立面: Stone facade
+  石材装饰: Stone cladding
+  石膏: Plaster
+  大理石: Marble
+  花岗岩: Granite
+  洞石: Limestone
+  石材雕刻: Stone carving
+  真石漆: Mineral paint
+  涂料: Coating
+  外墙涂料: Exterior coating
+  内墙涂料: Interior coating
+  水磨石: Terrazzo
+  铝板: Aluminum panel
+  金属穿孔板: Metal perforated panel
+  栅格: Grid
+  木栅格: Wooden grid
+  栅格幕墙: Grid curtain wall
+  红砖: Red brick
+  灰砖: Gray brick
+  白砖: White brick
+  砖墙: Brick wall
+  块石: Block stone
+  岩石: Rock
+  铸铁: Cast iron
+  钢材: Steel
+  铝合金: Aluminum alloy
+  玻璃: Glass
+  玻璃瓦: Glass tile
+  陶瓷砖: Ceramic tile
+  水泥: Cement
+  水泥砂浆: Cement mortar
+  瓷砖: Porcelain tile
+  马赛克: Mosaic
+  钢筋混凝土: Reinforced concrete
+  石膏板: Gypsum board
+  金属板材: Metal sheet
+  铝合金板: Aluminum alloy sheet
+  玻璃纤维: Fiberglass
+  粘土砖: Clay brick
+  木材: Wood
+  实木地板: Solid wood flooring
+  复合木地板: Engineered wood flooring
+  木质护墙板: Wooden wainscoting
+  纤维水泥板: Fiber cement board
+  石棉瓦: Asbestos tile
+  
+  不锈钢: Stainless steel
+  钛合金: Titanium alloy
+  铜: Copper
+  复合材料: Composite material
+  碳纤维: Carbon fiber
+  
+  聚合物: Polymer
+  
+  
+  轻钢龙骨: Light steel keel
+
+
+
+建筑八角形系列:
+  八角珠帷幕: Octagonal bead curtains
+  八角形蜂巢状结构: Octagonal hivelike structure
+  八角帽状屋顶: Octagonal capshaped roof
+  八角穹顶: Octagonal dome
+  八角形拱门: Octagonal arch
+  八角形砖墙: Octagonal brick wall
+  八角形窗户: Octagonal windows
+  八角形地板瓷砖: Octagonal floor tiles
+  八角形塔楼: Octagonal tower
+  八角形阳台栏杆: Octagonal balcony railing
+  八角形柱子: Octagonal columns
+  八角形门廊: Octagonal porch
+  八角形天窗: Octagonal skylight
+  八角形屋顶瓦片: Octagonal roof tiles
+  八角形拱廊: Octagonal arcade
+  八角形石板路: Octagonal stone pathway
+  八角形挑檐: Octagonal eaves
+  八角形楼梯扶手: Octagonal staircase handrail
+  八角形花园亭: Octagonal gazebo
+  八角形立面: Octagonal facade
+  八角形横梁: Octagonal beam
+  八角形凉亭: Octagonal pavilion
+  八角形栏杆: Octagonal railing
+  八角形天井: Octagonal courtyard
+  八角形门框: Octagonal door frame
+  八角形挂灯: Octagonal pendant light
+  八角形屏风: Octagonal screen
+  八角形天花板: Octagonal ceiling
+  八角形门牌: Octagonal door plaque
+  八角形园林桥: Octagonal garden bridge
+  八角形露台: Octagonal terrace
+  八角形树柱: Octagonal tree column
+  八角形栅栏: Octagonal fence
+  八角形建筑模型: Octagonal architectural model
+  八角形水池: Octagonal pond
+  八角形雨篷: Octagonal canopy
+  八角形垃圾箱: Octagonal trash bin
+  八角形门厅: Octagonal foyer
+  八角形阳台: Octagonal balcony
+  八角形吊灯: Octagonal chandelier
+  八角形围栏: Octagonal railing
+  八角形柱帽: Octagonal column cap
+  八角形挂钟: Octagonal wall clock
+  八角形塔楼楼梯: Octagonal tower staircase
+  八角形地基: Octagonal foundation
+  八角形天幕: Octagonal canopy
+  八角形楼顶雨水斗: Octagonal rooftop rainwater spout
+  八角形树屋: Octagonal treehouse
+  八角形庭院喷泉: Octagonal courtyard fountain
+  八角形纹理地板: Octagonal patterned floor
+
+建筑的罗马式系列:
+  罗马立柱: Roman column
+  罗马圆柱: Roman cylindrical column
+  罗马带列立柱: Roman colonnaded column
+  罗马柱式: Roman order
+  罗马复兴柱: Romanesque column
+  罗马建筑风格: Roman architecture style
+  罗马建筑柱头: Roman architectural capital
+  罗马石柱: Roman stone column
+  罗马纹饰柱: Roman decorative column
+  罗马石雕柱: Roman sculpted column
+  罗马古典柱: Roman classical column
+  罗马建筑圆柱体: Roman architectural cylinder
+  罗马复古立柱: Romanesque revival column
+  罗马建筑支柱: Roman architectural pillar
+  罗马建筑柱带: Roman architectural entablature
+  罗马柱式建筑: Roman order architecture
+  罗马建筑柱基: Roman architectural pedestal
+  罗马拱柱: Roman arch column
+  罗马式立柱: Romanesque-style column
+  罗马建筑典范: Roman architectural exemplar
+  罗马带列立柱建筑: Roman colonnaded column architecture
+  罗马建筑装饰柱: Roman architectural decorative column
+  罗马石膏柱: Roman plaster column
+  罗马式建筑立柱: Roman-style architectural column
+  罗马古典建筑柱: Roman classical architectural column
+  罗马建筑圆柱雕塑: Roman architectural cylindrical sculpture
+  罗马复古建筑柱: Romanesque revival architectural column
+  罗马建筑柱身: Roman architectural shaft
+  罗马建筑柱装饰: Roman architectural column ornamentation
+  罗马建筑柱式风格: Roman architectural order style
+  罗马带列建筑柱: Roman colonnaded architectural column
+  罗马建筑纹饰柱: Roman architectural decorative column
+  罗马建筑柱顶: Roman architectural column capital
+  罗马圆柱建筑: Roman cylindrical architectural column
+  罗马建筑立柱设计: Roman architectural column design
+  罗马古典立柱: Roman classical column
+  罗马式建筑装饰柱: Roman-style architectural decorative column
+  罗马式建筑圆柱: Roman-style architectural cylindrical column
+  罗马建筑古典柱: Roman architectural classical column
+  罗马建筑柱花: Roman architectural column motif
+  罗马带列建筑: Roman colonnaded architecture
+  罗马式建筑典雅柱: Roman-style architectural elegant column
+  罗马式建筑柱雕塑: Roman-style architectural column sculpture
+  罗马建筑柱形: Roman architectural column form
+  罗马古典建筑圆柱: Roman classical architectural cylindrical column
+  罗马建筑带列立柱: Roman architectural colonnaded column
+  罗马建筑立柱构造: Roman architectural column structure
+  罗马建筑柱装饰风格: Roman architectural column decoration style
+  罗马复古立柱设计: Romanesque revival column design
+  罗马建筑柱基石: Roman architectural cornerstone
+
+建筑的各种系统:
+  可持续建筑: Sustainable architecture
+  节能设计: Energy-efficient design
+  被动太阳能供暖: Passive solar heating
+  绿色屋顶: Green roof
+  雨水收集利用: Rainwater harvesting
+  低辐射玻璃: Low-emissivity glass
+  自然通风: Natural ventilation
+  热质量: Thermal mass
+  光照收集利用: Daylight harvesting
+  建筑围护结构: Building envelope
+  太阳能光伏系统: Solar photovoltaic system
+  热回收通风: Heat recovery ventilation
+  起居传感器: Occupancy sensors
+  建筑自动化系统: Building automation system
+  被动冷却: Passive cooling
+  智能照明: Smart lighting
+  水效设备: Water-efficient fixtures
+  反射屋面: Reflective roofing
+  绿色建筑认证: Green building certification
+  寿命周期评估: Life cycle assessment
+  隔热材料: Insulation materials
+  空调系统: HVAC system
+  风力发电: Wind power
+  地热能: Geothermal energy
+  太阳能热水器: Solar water heater
+  高效照明系统: High-efficiency lighting system
+  可再生能源: Renewable energy
+  节水设备: Water-saving devices
+  环保材料: Environmentally friendly materials
+  室内空气质量: Indoor air quality
+  建筑垃圾管理: Construction waste management
+  智能建筑管理系统: Smart building management system
+  智能门锁系统: Smart door lock system
+  智能家居系统: Smart home system
+  无障碍设计: Accessible design
+  防火安全系统: Fire safety system
+  防盗安全系统: Burglar alarm system
+  环境监测系统: Environmental monitoring system
+  建筑信息模型: Building Information Modeling
+
+
+媒介:
+  建筑: Architectural Plan
+  竣工图: AsBuilt Drawings
+  轴测图: Axonometric Drawing
+  蓝图: Blueprint
+  计算机辅助设计: CAD Computer Aided Design
+  概念设计: Concept Design
+  施工图: Construction Drawings
+  横断面: Cross Section
+  详细图纸: Detail Drawings
+  立面图: Elevation
+  外立面: Facade
+  平面图: Floor Plan
+  基础图: Foundation Plan
+  暖通空调图: HVAC Heating Ventilation and Air Conditioning Plan
+  内部立面图: Interior Elevations
+  等角图: Isometric Drawing
+  景观设计图: Landscape Plan
+  总体规划: Master Plan
+  正交图: Orthographic Drawing
+  透视图: Perspective Drawing
+  管道和电气图: Plumbing and Electrical Plan
+  反射天花板图: Reflected Ceiling Plan
+  屋顶图: Roof Plan
+  剖视图: Sectional View
+  场地平面图: Site Plan
+  结构图: Structural Drawings
+  测量图: Survey
+  技术图纸: Technical Drawing
+  地形图: Topographical Plan
+  三维渲染图: 3D Rendering
+  建筑信息模型 BIM: Building Information Modelling
+  三维模型: 3D Model
+  材料板: Material Board
+  绿色建筑: Green Building
+  可持续设计: Sustainable Design
+  建筑规范: Building Code
+  空间规划: Space Planning
+  承重墙: Load Bearing Wall
+  结构绝缘板: Structural Insulated Panel
+  建筑外皮: Building Envelope
+  施工预估: Construction Estimating
+  改造: Retrofit
+  适应性再利用: Adaptive Reuse
+  被动式太阳能设计: Passive Solar Design
+  能源和环境设计领导力 LEED: Leadership in Energy and Environmental Design
+  场地分析: Site Analysis
+  玻璃镶板: Glazing
+  建筑生命周期: Building Lifecycle
+  价值工程: Value Engineering
+
+照明:
+  柔和光照: Soft Lighting
+  环境光照: Ambient Lighting
+  阴天光照: Overcast Lighting
+  霓虹灯照明: Neon Lighting
+  聚光灯: Spotlight
+  泛光灯: Floodlight
+  背光: Backlighting
+  点缀照明: Accent Lighting
+  墙面洗照明: Wall Wash Lighting
+  底部照明: Uplighting
+  顶部照明: Downlighting
+  功能照明: Task Lighting
+  路径照明: Path Lighting
+  腰线照明: Cove Lighting
+  壁灯: Sconce
+  吊灯1: Chandelier
+  吊灯2: Pendant Light
+  轨道照明: Track Lighting
+  嵌入式照明: Recessed Lighting
+  橱柜下照明: Under Cabinet Lighting
+  阶梯照明: Step Lighting
+  景观照明: Landscape Lighting
+  灯带照明: Strip Lighting
+  闪光灯: Strobe Light
+  光纤照明: Fiber Optic Lighting
+  动态感应照明: Motion Sensor Lighting
+  应急照明: Emergency Lighting
+  舞台照明: Stage Lighting
+  剧院照明: Theatre Lighting
+  影视照明: Film Lighting
+  建筑照明: Architectural Lighting
+  零售照明: Retail Lighting
+  博物馆照明: Museum Lighting
+  画廊照明: Gallery Lighting
+  酒店照明: Hospitality Lighting
+  餐厅照明: Restaurant Lighting
+  办公室照明: Office Lighting
+  工业照明: Industrial Lighting
+  居住照明: Residential Lighting
+  室外照明: Exterior Lighting
+  室内照明: Interior Lighting
+  变色照明: Colorchanging Lighting
+  自然采光: Daylighting
+  月光照明: Moonlighting
+  烛光: Candlelight
+  火光: Firelight
+  微妙照明: Subtle Lighting
+  戏剧性照明: Dramatic Lighting
+  动态照明: Dynamic Lighting
+
+构图视角:
+  鸟瞰图: BirdsEye View
+  正面视图: Front View
+  后视图: Rear View
+  侧视图: Side View
+  轴测图: Axonometric View
+  等角视图: Isometric View
+  平面视图: Plan View
+  立面视图: Elevation View
+  剖面视图: Section View
+  透视视图: Perspective View
+  室内视图: Interior View
+  室外视图: Exterior View
+  街景视图: Street View
+  俯视图: Overhead View
+  横断面视图: CrossSection View
+  航拍视图: Aerial View
+  蚯蚓视角: Worm'sEye View
+  顶视图: Top View
+  底视图: Bottom View
+  角落视图: Corner View
+  广角视图: WideAngle View
+  近景视图: CloseUp View
+  全景视图: Panoramic View
+  放大视图: ZoomedIn View
+  缩小视图: ZoomedOut View
+  高角度视图: HighAngle View
+  低角度视图: LowAngle View
+  斜视图: Oblique View
+  分层视图: SplitLevel View
+  对角线视图: Diagonal View
+  倾斜视图: Tilted View
+  对称视图: Symmetrical View
+  不对称视图: Asymmetrical View
+  有框视图: Framed View
+  反射视图: Reflection View
+  动态视图: Dynamic View
+  静态视图: Static View
+  远景视图: Distant View
+  细节视图: Detail View
+  组合视图: Composite View
+  夜景视图: Night View
+  日出视图: Sunrise View
+  日落视图: Sunset View
+  黄昏视图: Twilight View
+  黄金时刻视图: Golden Hour View
+  鱼眼视图: Fisheye View
+  宽景视图: Wide View
+  极简主义视图: Minimalist View
+  高亮度视图: HighKey View
+  低亮度视图: LowKey View
+
+细节分辨率:
+  真实感的: Realistic
+  照片: Photograph
+  高清晰度分辨率: Highdefinition resolution
+  渲染: Rendering
+  材质: Texture
+  光影: Lighting
+  逼真: Photorealistic
+  阴影: Shadow
+  反射: Reflection
+  折射: Refraction
+  质感: Materiality
+  细节: Detail
+  曲面: Curvature
+  纹理: Pattern
+  构件: Component
+  表面: Surface
+  深度: Depth
+  透明: Transparency
+  平滑: Smooth
+  角度: Angle
+  比例: Proportion
+  对称: Symmetry
+  裂缝: Crack
+  缝隙: Gap
+  拼接: Joinery
+  拉伸: Stretch
+  折叠: Fold
+  切割: Cut
+  投影: Projection
+  遮挡: Occlusion
+  混凝土: Concrete
+  砖石: Brick
+  金属: Metal
+
+
+渲染器:
+  超真实渲染引擎: VRay
+  实时渲染引擎: Lumion
+  实时渲染和虚拟现实插件: Enscape
+  实时建筑可视化软件: Twinmotion
+  全局照明渲染器: Corona Renderer
+  高级渲染器: Arnold
+  GPU加速渲染器: Redshift
+  光线追踪渲染引擎: Octane Render
+  皮克斯渲染器: RenderMan
+  物理渲染引擎: Maxwell Render
+  3D建筑渲染软件: Artlantis
+  真实感渲染器: Indigo Renderer
+  高质量渲染器: Thea Render
+  实时渲染和动画软件: KeyShot
+  开源的三维建模和渲染软件: Blender
+  建筑信息模型BIM软件: Revit
+  3D建模软件: Rhino
+  三维建模和渲染软件: 3ds Max
+  专业 CAD 软件: ProgeCAD
